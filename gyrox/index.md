@@ -5,14 +5,24 @@ layout: default
 
 # Welcome to My GitHub Page
 
-Hello! This is a simple page created using GitHub Pages and Markdown.
+This site now has an interactive button and an image!
 
 ---
 
 ## About Me
 
-I’m a passionate developer working on games, apps, and other cool projects.  
-Through this site, I’ll share my journey, updates, and projects with you.
+I’m a developer who loves creating fun and engaging projects.  
+Stay tuned for more updates and insights into my work!
 
-Thank you for visiting!
+---
 
+## Explore More
+
+[![GitHub Icon](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/radioactive-l1r)  
+Check out my GitHub repository for more projects and ideas!
+
+---
+
+## Contact Me
+
+[Contact Me](mailto:your_email@example.com)
