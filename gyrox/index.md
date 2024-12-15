@@ -1,6 +1,6 @@
 ---
 title: Welcome to My GitHub Page
-layout: default
+layout: dark
 ---
 <div style="text-align: center;">
   <img src="https://radioactive-l1r.github.io/progress/image/gryoicon.png" alt="Gyro Icon" style="width: 10%; height: auto;">
