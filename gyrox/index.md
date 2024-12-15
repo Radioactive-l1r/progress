@@ -2,7 +2,6 @@
 title: Welcome to My GitHub Page
 layout: default
 ---
-<img src="https://radioactive-l1r.github.io/progress/image/gryoicon.png" alt="Gyro Icon" style="width: 50%; height: auto;">
 <div style="text-align: center;">
   <img src="https://radioactive-l1r.github.io/progress/image/gryoicon.png" alt="Gyro Icon" style="width: 10%; height: auto;">
 </div>
@@ -21,7 +20,6 @@ Stay tuned for more updates and insights into my work!
 
 ## Explore More
 
-[![GitHub Icon](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/radioactive-l1r)  
 Check out my GitHub repository for more projects and ideas!
 
 ---
