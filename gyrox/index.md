@@ -2,7 +2,7 @@
 title: Welcome to My GitHub Page
 layout: default
 ---
-![Gyro Icon](https://radioactive-l1r.github.io/progress/image/gryoicon.png)
+<img src="https://radioactive-l1r.github.io/progress/image/gryoicon.png" alt="Gyro Icon" style="width: 50%; height: auto;">
 # Welcome to My GitHub Page
 
 This site now has an interactive button and an image!
