@@ -26,3 +26,7 @@ Check out my GitHub repository for more projects and ideas!
 ## Contact Me
 
 [Contact Me](mailto:your_email@example.com)
+
+  <button >
+    Contact Me
+  </button>
